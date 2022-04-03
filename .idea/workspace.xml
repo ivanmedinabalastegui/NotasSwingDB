@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ad0a1b-1c2b-4905-91cf-1a71a9369ddf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1sNXSTK9pw6q6dkZzsR8mOQR2mH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivanm\3T Puntuable 4\src" />
+      <recent name="C:\Users\ivanm\3T Puntuable 4\src\Examen3T" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Interfaz">
+    <configuration name="Interfaz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaz" />
+      <module name="3T Puntuable 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Piloto (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examen3T.Piloto" />
+      <module name="3T Puntuable 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examen3T.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Piloto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Piloto" />
+      <module name="3T Puntuable 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing" />
+      <module name="3T Puntuable 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Interfaz" />
+        <item itemvalue="Application.Piloto (1)" />
+        <item itemvalue="Application.Swing" />
+        <item itemvalue="Application.Piloto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ad0a1b-1c2b-4905-91cf-1a71a9369ddf" name="Default Changelist" comment="" />
+      <created>1620714021511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620714021511</updated>
+      <workItem from="1620714022712" duration="329000" />
+      <workItem from="1620714402543" duration="151000" />
+      <workItem from="1620714589950" duration="2373000" />
+      <workItem from="1620717031076" duration="5113000" />
+      <workItem from="1620722209594" duration="8000" />
+      <workItem from="1620722366672" duration="9000" />
+      <workItem from="1620752009128" duration="23000" />
+      <workItem from="1620752351480" duration="12000" />
+      <workItem from="1621189180751" duration="207000" />
+      <workItem from="1621249898517" duration="19000" />
+      <workItem from="1621249922814" duration="3143000" />
+      <workItem from="1621298870629" duration="4044000" />
+      <workItem from="1621321322388" duration="1887000" />
+      <workItem from="1621419154839" duration="827000" />
+      <workItem from="1621576834311" duration="76000" />
+      <workItem from="1621875789776" duration="63000" />
+      <workItem from="1621875918822" duration="196000" />
+      <workItem from="1621924171429" duration="477000" />
+      <workItem from="1621924819913" duration="528000" />
+      <workItem from="1621925702362" duration="1379000" />
+      <workItem from="1621927188193" duration="1477000" />
+      <workItem from="1621928710305" duration="1043000" />
+      <workItem from="1621929909882" duration="1000" />
+      <workItem from="1621930048896" duration="686000" />
+      <workItem from="1621930778572" duration="380000" />
+      <workItem from="1621931348726" duration="1134000" />
+      <workItem from="1621933234952" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
